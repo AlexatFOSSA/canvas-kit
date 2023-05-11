@@ -16,9 +16,13 @@ implement user experiences consistent with
 <a href="./modules/docs/mdx/CONTRIBUTING.mdx">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" />
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlexatFOSSA%2Fcanvas-kit?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexatFOSSA%2Fcanvas-kit.svg?type=shield"/></a>
 
 ---
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexatFOSSA%2Fcanvas-kit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexatFOSSA%2Fcanvas-kit?ref=badge_large)
 
 ## Getting started
 
